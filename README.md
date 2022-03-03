@@ -14,4 +14,4 @@ Follow these instructions in order. If you make a mistake, start over from the b
 1. Run the command that shows all of your Git commits.
 1. Add a remote repository called `origin` to the repo.
 1. Sync your local changes with the remote repository.
-1. Run `history | tail -n 12 > cli_history` to print your last 12 actions to the file `cli_history`.
+1. Run `history | tail -n 11 > cli_history` to print your last 12 actions to the file `cli_history`.
