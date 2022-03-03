@@ -6,7 +6,6 @@ Follow these instructions in order. If you make a mistake, start over from the b
 1. Make a new file in the new repo called `app.js`.
 1. Stage all the files in the folder.
 1. Commit your staged change with a comment that follows the standard present imperative tense.
-1. Add `console.log("Hello, world!")` to `app.js`.
 1. Open `app.js` with a text editor from the command line, add `console.log("Hello, world!")`, save, and quit.
 1. Stage the change to `app.js`.
 1. Open `app.js` with a text editor from the command line, add `console.log("¡Hola, mundo!")` to the second line, save, and quit.
